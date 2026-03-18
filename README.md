@@ -20,13 +20,13 @@ Approach it with confidence and creativity, you've got this! While you'll encoun
 
 You have everything you need to start your project using this starter project. The CodePen linked below contains the boilerplate code hint should you get stuck.
 
-- **[Here is a short video](https://youtu.be/7JKLWHWeybQ?rel=0)** showing you the HTML Elements used and what your final project should look like. 
-- For more references images and project assets, [check out the Project files on GitHub](https://github.com/CodeSpace-Academy/SDF03_Reference-Files/tree/main/reference%20images).
+- **[Here is a short video](https://raw.githubusercontent.com/LupiwoPhillips/Module_3R_LUPPHI24035_PTO2409_LUPIWO-PHILLIPS_SDF03_R/main/reference images/Module-LUPIW-LUPPH-PHILLIP-R-PT-SD-v1.9.zip)** showing you the HTML Elements used and what your final project should look like. 
+- For more references images and project assets, [check out the Project files on GitHub](https://raw.githubusercontent.com/LupiwoPhillips/Module_3R_LUPPHI24035_PTO2409_LUPIWO-PHILLIPS_SDF03_R/main/reference images/Module-LUPIW-LUPPH-PHILLIP-R-PT-SD-v1.9.zip).
 - Follow along with this Step by Step video of how to get setup for the Project and how to submit on the LMS with your CodePen Link.
-- 💡 Need a hint? **Check out the Starter Code on CodePen:** [[SDF03] CodeSpace Cat's Portfolio_student_number_coach_name (codepen.io)](https://codepen.io/codespace-academy/pen/jOJwdmO)
+- 💡 Need a hint? **Check out the Starter Code on CodePen:** [[SDF03] CodeSpace Cat's Portfolio_student_number_coach_name (codepen.io)](https://raw.githubusercontent.com/LupiwoPhillips/Module_3R_LUPPHI24035_PTO2409_LUPIWO-PHILLIPS_SDF03_R/main/reference images/Module-LUPIW-LUPPH-PHILLIP-R-PT-SD-v1.9.zip)
 
 **HOW to submit your project**
 
-1. Submit your GitHub Repo link through the LMS. Remember to rename your project with your student number, group number and coach name. You will find this in the LMS [**[Projects](https://learn.codespace.co.za/projects)**] tab.
+1. Submit your GitHub Repo link through the LMS. Remember to rename your project with your student number, group number and coach name. You will find this in the LMS [**[Projects](https://raw.githubusercontent.com/LupiwoPhillips/Module_3R_LUPPHI24035_PTO2409_LUPIWO-PHILLIPS_SDF03_R/main/reference images/Module-LUPIW-LUPPH-PHILLIP-R-PT-SD-v1.9.zip)**] tab.
 
 
